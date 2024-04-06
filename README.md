@@ -1,4 +1,4 @@
-# Patient Manager
+# Budget Control
 
 This is a web application project for a Budget Control, developed using React along with HTML, CSS, and JavaScript.
 
